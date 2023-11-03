@@ -3,4 +3,4 @@ Gantt Retails is a company that operates in the online shopping domain, focusing
 
 https://public.tableau.com/app/profile/adebisi.okegbemi/viz/GanttRetail_16985010228110/Dashboard1
 
-<img width="605" alt="image" src="https://github.com/Adebisiokegbemi/Gantt-web-dashboard-tracking/assets/91023196/7eeb72cb-f5c5-47e2-8a04-c8f763d7c13d">
+<img width="545" alt="image" src="https://github.com/Adebisiokegbemi/Gantt-web-dashboard-tracking/assets/91023196/41c8adaa-4f52-45f4-8606-51da766c51fb">
